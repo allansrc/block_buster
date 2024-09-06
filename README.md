@@ -1,16 +1,23 @@
-# block_buster
 
-A new Flutter project.
+<h1 align="center">block_buster</h1>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">An awesome Flutter project.</p>
 
-A few resources to get you started if this is your first Flutter project:
+Getting Started 🚀
+--------
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```sh
+# Development
+$ flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+
+
+### 🛠 Tech and Tools
+The following tools were used in the construction of the project:
+
+- [Flutter](https://flutter.dev/): Core SDK
+- [Flame](https://docs.flame-engine.org/latest/): Flame is a modular Flutter game engine that provides a complete set of out-of-the-way solutions for games.
